@@ -168,3 +168,18 @@ body {
     padding-left: 10px;
     padding-bottom: 10px;
 }
+
+.aviso--grande {
+    font-size: 40px;
+    font-weight: bold;
+
+}
+
+.aviso--gigante {
+    flex: 1;
+    font-size: 70px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
